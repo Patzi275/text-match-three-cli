@@ -19,7 +19,6 @@ To run the game locally on your machine, follow these steps:
 - Use the arrow keys or 8624 keys to navigate the game board.
 - Press the 'a' or the '5' to select a character and swap it with an adjacent one.
 - Create matches of three or more identical characters in a row or column to score points.
-- As you progress, the game may introduce new challenges, power-ups, or special characters.
 
 ## Contributing
 
